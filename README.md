@@ -1,6 +1,8 @@
 # Rails Scaffold
 
-#My heroku app is at: https://cryptic-inlet-3532.herokuapp.com/
+#My heroku app is at: https://serene-escarpment-2556.herokuapp.com
+#https://serene-escarpment-2556.herokuapp.com/people
+#https://serene-escarpment-2556.herokuapp.com/organizations
 
 ## Stories
 
