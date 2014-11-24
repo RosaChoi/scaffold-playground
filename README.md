@@ -1,5 +1,7 @@
 # Rails Scaffold
 
+#My heroku app is at: https://cryptic-inlet-3532.herokuapp.com/
+
 ## Stories
 
 **Users can CRUD people**
